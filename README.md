@@ -12,7 +12,9 @@ $ npm install --save minimum-absolute-difference-in-an-array
 ```js
 const minimumAbsoluteDifferenceInAnArray = require('minimum-absolute-difference-in-an-array');
 
-minimumAbsoluteDifferenceInAnArray('Rainbow');
+const arr = [3, -7, 0];
+
+let minimumAbsoluteDifference = minimumAbsoluteDifferenceInAnArray(arr);
 ```
 ## License
 
