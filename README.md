@@ -1,5 +1,5 @@
 # minimum-absolute-difference-in-an-array [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Minimum Absolute Difference in an Array
+> HackerRank [Minimum Absolute Difference in an Array](https://github.com/yeoman/generator-node/blob/master/README.md) challenge solution.
 
 ## Installation
 
